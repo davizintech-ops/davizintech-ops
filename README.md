@@ -66,5 +66,22 @@ Projetos envolvendo:
 
 ## 📂 O que eu faço
 
-📦 Linux ├── Distro building ├── RootFS ├── ISO creation └── System customization
-📱 Android ├── ROM modification ├── Recovery ├── Root └── Optimization
+```kyro
+📦 Linux 
+├── Distro building 
+├── RootFS 
+├── ISO creation 
+└── System customization
+
+📱 Android 
+├── ROM modification 
+├── Recovery 
+├── Root 
+└── Optimization
+```
+---
+
+## 💫 populares Projetos:
+
+* [yespipe](https://github.com/davizintech-ops/yesPipe-repo)
+* [kairo-linux](https://github.com/davizintech-ops/Kairo-linux)
